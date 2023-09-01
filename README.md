@@ -1,2 +1,4 @@
 # first
-Basic git tutorial for beginners.
+First git repository.<br>
+done!!!
+
