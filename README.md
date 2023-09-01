@@ -1,2 +1,2 @@
 # first
-Basic git tutorial
+Basic git tutorial for beginners.
